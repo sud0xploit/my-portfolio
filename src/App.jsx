@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 
-/* ─── YOUR REAL INFO ─── */
+/* ─── MY INFO ─── */
 const ME = {
   name: "HARIOM RATHORE",
   initials: "HR.",
